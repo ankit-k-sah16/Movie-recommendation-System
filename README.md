@@ -90,10 +90,12 @@ Environment: Jupyter Notebook
   
   Based on similarity scores
 
- 
+  ![App Screenshot](demo_image.png)
 
 
-##💡 What I Learned
+-----
+
+## 💡 What I Learned
 
    Building recommendation systems from scratch
    
